@@ -9,6 +9,5 @@
   "author": "mcasseljlibby",
   "license": "ISC",
   "dependencies": {
-    "bipartite-matching": "^1.0.0"
   }
 }
